@@ -5,7 +5,7 @@
 
 </br> 
 
-TABLE                                   |                         EIGENVALUES &  MANOVA Test     |
+EIGENVALUES &  MANOVA Test              |      TABLE                       
 :--------------------------------------:|:-------------------------------------------------------:
 ![image](https://user-images.githubusercontent.com/45861503/76267793-1d1f6780-6229-11ea-882a-7bebb09a397a.png) | ![image](https://user-images.githubusercontent.com/45861503/76267913-856e4900-6229-11ea-82d5-4785b4a52c11.png)
 
