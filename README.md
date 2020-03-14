@@ -9,3 +9,12 @@ TABLE                                   |                         EIGENVALUES & 
 :--------------------------------------:|:-------------------------------------------------------:
 ![image](https://user-images.githubusercontent.com/45861503/76267793-1d1f6780-6229-11ea-882a-7bebb09a397a.png) | ![image](https://user-images.githubusercontent.com/45861503/76267913-856e4900-6229-11ea-82d5-4785b4a52c11.png)
 
+<br/>
+</br> 
+
+
+CONTRAST 1&2 vs. 3               |                    CONTRAST 1 vs. 2
+:--------------------------------:|:-------------------------------------:
+![image](https://user-images.githubusercontent.com/45861503/76267970-b8184180-6229-11ea-8f1f-6d0e91af1466.png)|![image](https://user-images.githubusercontent.com/45861503/76267977-bd758c00-6229-11ea-90bd-563850b9db31.png)
+
+
