@@ -1,6 +1,7 @@
 # MANOVA = Multivariate Analysis Of Variance MANOVA 
 
-![image](https://user-images.githubusercontent.com/45861503/76683020-e8f7ce00-65bd-11ea-92fd-81cb659bbe7c.png)
+![image](https://user-images.githubusercontent.com/45861503/76683166-2a3cad80-65bf-11ea-8850-d543794846e3.png)
+
 <br/>
 
 </br> 
