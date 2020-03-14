@@ -18,3 +18,7 @@ CONTRAST 1&2 vs. 3               |                    CONTRAST 1 vs. 2
 ![image](https://user-images.githubusercontent.com/45861503/76267970-b8184180-6229-11ea-8f1f-6d0e91af1466.png)|![image](https://user-images.githubusercontent.com/45861503/76267977-bd758c00-6229-11ea-90bd-563850b9db31.png)
 
 
+</br> 
+</br> 
+
+![image](https://user-images.githubusercontent.com/45861503/76683126-ce722480-65be-11ea-95e8-d2d7f8a4126c.png)
