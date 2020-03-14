@@ -1,1 +1,1 @@
-# Multivariate-Analysis-Of-Variance_-MANOVA-
+# MANOVA = Multivariate Analysis Of Variance MANOVA 
